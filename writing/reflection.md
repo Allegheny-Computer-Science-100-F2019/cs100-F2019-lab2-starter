@@ -7,7 +7,7 @@ Please provide a fenced code block with the required output.
 ## For each Java code statement, add an explanation to the following list
 
 - `import java.util.Date;`:
-- `import java.util.Date;`:
+- `import java.util.Scanner;`:
 - `System.out.println`:
 
 ## What was the greatest technical challenge that you faced and how did you overcome it?
