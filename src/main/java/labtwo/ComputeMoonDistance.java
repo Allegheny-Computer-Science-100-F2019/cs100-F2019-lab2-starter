@@ -1,6 +1,6 @@
 // TODO: Add the correct package declaration
 
-// TODO: Add the required import statements
+// TODO: Add the required import statement
 
 /** This class has a method that computes the distance to the moon in yards.
  * The first line displays the name of the programmer and the date. Then, the
